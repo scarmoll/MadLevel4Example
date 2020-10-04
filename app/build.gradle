@@ -24,7 +24,14 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavAddReminderFragment.kt
+        MainActivity
+        Reminder
+        ReminderAdapter
+        ReminderDao
+        ReminderRepository
+        ReminderRoomDatabase
+        RemindersFragmentaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
     kotlinOptions {
